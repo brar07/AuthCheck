@@ -1,0 +1,16 @@
+PODS:
+  - HanekeSwift (0.10.0)
+  - Kingfisher (1.8.5)
+  - OAuthSwift (0.4.8)
+
+DEPENDENCIES:
+  - HanekeSwift
+  - Kingfisher (~> 1.8)
+  - OAuthSwift (~> 0.4.8)
+
+SPEC CHECKSUMS:
+  HanekeSwift: d6f5bdf9dbdbbc09d59623b2c1d533e46463dd4d
+  Kingfisher: 780fed0fa82692a3bd59d53329ae2b85cdd354a5
+  OAuthSwift: 23bd4807a4fd9e54ef6e7c2b5875138819186d9a
+
+COCOAPODS: 0.39.0
